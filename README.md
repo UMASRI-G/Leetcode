@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/UMASRI-G/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/UMASRI-G/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/UMASRI-G/Leetcode/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,8 +27,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/UMASRI-G/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/UMASRI-G/Leetcode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/UMASRI-G/Leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/UMASRI-G/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
