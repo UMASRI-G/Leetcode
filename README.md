@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/UMASRI-G/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/UMASRI-G/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/UMASRI-G/Leetcode/tree/master/0015-3sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UMASRI-G/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/UMASRI-G/Leetcode/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/UMASRI-G/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
